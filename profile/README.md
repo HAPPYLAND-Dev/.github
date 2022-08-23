@@ -11,4 +11,4 @@
       We freely develop some program around Minecraft for fun!
       
       If you are interested in us, give us a Star for our project?
- </h2>
+</h2>
